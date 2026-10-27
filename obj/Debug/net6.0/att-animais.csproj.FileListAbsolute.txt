@@ -1,0 +1,15 @@
+C:\Users\ALUNO\Desktop\att-animais\bin\Debug\net6.0\att-animais.exe
+C:\Users\ALUNO\Desktop\att-animais\bin\Debug\net6.0\att-animais.deps.json
+C:\Users\ALUNO\Desktop\att-animais\bin\Debug\net6.0\att-animais.runtimeconfig.json
+C:\Users\ALUNO\Desktop\att-animais\bin\Debug\net6.0\att-animais.dll
+C:\Users\ALUNO\Desktop\att-animais\bin\Debug\net6.0\att-animais.pdb
+C:\Users\ALUNO\Desktop\att-animais\obj\Debug\net6.0\att-animais.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Desktop\att-animais\obj\Debug\net6.0\att-animais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\Desktop\att-animais\obj\Debug\net6.0\att-animais.AssemblyInfoInputs.cache
+C:\Users\ALUNO\Desktop\att-animais\obj\Debug\net6.0\att-animais.AssemblyInfo.cs
+C:\Users\ALUNO\Desktop\att-animais\obj\Debug\net6.0\att-animais.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Desktop\att-animais\obj\Debug\net6.0\att-animais.dll
+C:\Users\ALUNO\Desktop\att-animais\obj\Debug\net6.0\refint\att-animais.dll
+C:\Users\ALUNO\Desktop\att-animais\obj\Debug\net6.0\att-animais.pdb
+C:\Users\ALUNO\Desktop\att-animais\obj\Debug\net6.0\att-animais.genruntimeconfig.cache
+C:\Users\ALUNO\Desktop\att-animais\obj\Debug\net6.0\ref\att-animais.dll
